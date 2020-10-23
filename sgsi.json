@@ -10,7 +10,7 @@
   "make_zui": false,
   "make_super": false,
   "upload_transfer": true,
-  "upload_cowtransfer": true,
-  "upload_wss": true,
+  "upload_cowtransfer": false,
+  "upload_wss": false,
   "upload_artifact": true
 }
