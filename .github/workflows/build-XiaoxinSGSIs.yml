@@ -47,7 +47,7 @@ jobs:
          uses: robinraju/release-downloader@v1
          with:
            repository: "xiaoxindada/SGSI-build-tool"
-           latest: true
+           tag: "1.8"
            fileName: "SGSI-build-tool.tar"
            
        - name: Initialization environment
